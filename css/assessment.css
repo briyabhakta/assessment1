@@ -44,7 +44,7 @@ div{
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: repeat(3,1fr);
     text-align: center;
-    height: 60vh;
+    height: 55vh;
   }
 
   div:nth-child(even){
